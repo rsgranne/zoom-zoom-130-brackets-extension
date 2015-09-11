@@ -1,7 +1,7 @@
 Zoom Zoom Brackets Extension 1.0.0
 =========
 
-Zoom zoom the sidebar 150%.
+Zoom zoom the sidebar 130%.
 
 ## Why zoom zoom the sidebar?
 
