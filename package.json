@@ -1,10 +1,10 @@
 {
-    "name": "dustindowell.zoom-zoom",
+    "name": "granneman.zoom-zoom",
     "title": "Zoom Zoom",
-    "description": "Zoom zoom the sidebar 150%.",
-    "homepage": "https://github.com/dustindowell22/zoom-zoom-brackets-extension",
+    "description": "Zoom zoom the sidebar 130%.",
+    "homepage": "https://github.com/rsgranne/zoom-zoom-brackets-extension",
     "version": "1.0.0",
-    "author": "Dustin Dowell (https://github.com/dustindowell22)",
+    "author": "Scott Granneman, forked from Dustin Dowell (https://github.com/dustindowell22)",
     "license": "MIT",
     "engines": {
       "brackets": ">=1.0.0"
