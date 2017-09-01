@@ -5,4 +5,6 @@ Zoom zoom the sidebar 130%.
 
 ## Why zoom zoom the sidebar?
 
-I have a 4k monitor and it's nice to have 6 browsers open at the same time, but I'd still like to read the file tree.
+When I teach, my students can’t read the sidebar unless I use this extension.
+
+Based on https://github.com/dustin-archive/sidebar-reloaded-brackets-extension.
