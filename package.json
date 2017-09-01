@@ -1,13 +1,13 @@
 {
-    "name": "granneman.zoom-zoom",
-    "title": "Zoom Zoom",
+    "name": "granneman.zoom-zoom-130",
+    "title": "Zoom Zoom 130",
     "description": "Zoom zoom the sidebar 130%.",
-    "homepage": "https://github.com/rsgranne/zoom-zoom-brackets-extension",
+    "homepage": "https://github.com/rsgranne/zoom-zoom-130-brackets-extension",
     "version": "1.0.0",
     "author": "Scott Granneman, forked from Dustin Dowell (https://github.com/dustindowell22)",
     "license": "MIT",
     "engines": {
       "brackets": ">=1.0.0"
     },
-    "keywords": ["zoom", "zoom zoom"]
+    "keywords": ["zoom", "zoom zoom", "sidebar"]
 }
